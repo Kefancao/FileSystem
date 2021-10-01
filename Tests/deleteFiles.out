@@ -1,0 +1,211 @@
+Please specify the total size of the disk in MB: Please specify the size of each block in KB: Please select from one of the three options below
+ - save (s)
+ - read (r)
+ - delete (d)
+ - room (x)
+ - list (l)
+ - quit (q)
+Please enter a file id to be saved: Please enter the file size in KB: 
+[
+ 0, 1, 2, 3, 4, 
+ 5, 6, 7, 8, 9, 
+ 10, 11, 12, 13, 14, 
+ 15, 16, 17, 18, 19, 
+ 20, 21, 22, 23, 24
+]
+Total Blocks: 25
+
+Please select from one of the three options below
+ - save (s)
+ - read (r)
+ - delete (d)
+ - room (x)
+ - list (l)
+ - quit (q)
+Please enter a file id to be saved: Please enter the file size in KB: 
+[
+ 25, 26, 27, 28, 29, 
+ 30, 31, 32, 33, 34, 
+ 35, 36, 37, 38, 39, 
+ 40, 41, 42, 43, 44, 
+ 45, 46, 47, 48, 49
+]
+Total Blocks: 25
+
+Please select from one of the three options below
+ - save (s)
+ - read (r)
+ - delete (d)
+ - room (x)
+ - list (l)
+ - quit (q)
+Please enter a file id to be saved: Please enter the file size in KB: 
+[
+ 50, 51, 52, 53, 54, 
+ 55, 56, 57, 58, 59, 
+ 60, 61, 62, 63, 64, 
+ 65, 66, 67, 68, 69, 
+ 70, 71, 72, 73, 74
+]
+Total Blocks: 25
+
+Please select from one of the three options below
+ - save (s)
+ - read (r)
+ - delete (d)
+ - room (x)
+ - list (l)
+ - quit (q)
+Please enter a file id to be saved: Please enter the file size in KB: 
+[
+ 75, 76, 77, 78, 79, 
+ 80, 81, 82, 83, 84, 
+ 85, 86, 87, 88, 89, 
+ 90, 91, 92, 93, 94, 
+ 95, 96, 97, 98, 99
+]
+Total Blocks: 25
+
+Please select from one of the three options below
+ - save (s)
+ - read (r)
+ - delete (d)
+ - room (x)
+ - list (l)
+ - quit (q)
+Please enter a file id to be saved: Please enter the file size in KB: 
+[
+ 100, 101, 102, 103, 104, 
+ 105, 106, 107, 108, 109, 
+ 110, 111, 112, 113, 114, 
+ 115, 116, 117, 118, 119, 
+ 120, 121, 122, 123
+]
+Total Blocks: 24
+
+Please select from one of the three options below
+ - save (s)
+ - read (r)
+ - delete (d)
+ - room (x)
+ - list (l)
+ - quit (q)
+Please enter a file id to be read: [
+ 0, 1, 2, 3, 4, 
+ 5, 6, 7, 8, 9, 
+ 10, 11, 12, 13, 14, 
+ 15, 16, 17, 18, 19, 
+ 20, 21, 22, 23, 24
+]
+Total Blocks: 25
+
+Please select from one of the three options below
+ - save (s)
+ - read (r)
+ - delete (d)
+ - room (x)
+ - list (l)
+ - quit (q)
+Please enter a file id to be deleted: File 'file1' has been deleted
+Please select from one of the three options below
+ - save (s)
+ - read (r)
+ - delete (d)
+ - room (x)
+ - list (l)
+ - quit (q)
+Please enter a file id to be read: This file id does not exist in the file system
+To see the file ids, use the list command 'l'.
+Please select from one of the three options below
+ - save (s)
+ - read (r)
+ - delete (d)
+ - room (x)
+ - list (l)
+ - quit (q)
+Please enter a file id to be read: [
+ 100, 101, 102, 103, 104, 
+ 105, 106, 107, 108, 109, 
+ 110, 111, 112, 113, 114, 
+ 115, 116, 117, 118, 119, 
+ 120, 121, 122, 123
+]
+Total Blocks: 24
+
+Please select from one of the three options below
+ - save (s)
+ - read (r)
+ - delete (d)
+ - room (x)
+ - list (l)
+ - quit (q)
+Please enter a file id to be deleted: File 'file5' has been deleted
+Please select from one of the three options below
+ - save (s)
+ - read (r)
+ - delete (d)
+ - room (x)
+ - list (l)
+ - quit (q)
+Please enter a file id to be read: This file id does not exist in the file system
+To see the file ids, use the list command 'l'.
+Please select from one of the three options below
+ - save (s)
+ - read (r)
+ - delete (d)
+ - room (x)
+ - list (l)
+ - quit (q)
+Please enter a file id to be read: [
+ 50, 51, 52, 53, 54, 
+ 55, 56, 57, 58, 59, 
+ 60, 61, 62, 63, 64, 
+ 65, 66, 67, 68, 69, 
+ 70, 71, 72, 73, 74
+]
+Total Blocks: 25
+
+Please select from one of the three options below
+ - save (s)
+ - read (r)
+ - delete (d)
+ - room (x)
+ - list (l)
+ - quit (q)
+Please enter a file id to be deleted: File 'file3' has been deleted
+Please select from one of the three options below
+ - save (s)
+ - read (r)
+ - delete (d)
+ - room (x)
+ - list (l)
+ - quit (q)
+Please enter a file id to be read: This file id does not exist in the file system
+To see the file ids, use the list command 'l'.
+Please select from one of the three options below
+ - save (s)
+ - read (r)
+ - delete (d)
+ - room (x)
+ - list (l)
+ - quit (q)
+The available memory is 0.8MB.
+The total memory is 1MB.
+Please select from one of the three options below
+ - save (s)
+ - read (r)
+ - delete (d)
+ - room (x)
+ - list (l)
+ - quit (q)
+====================
+file4 (100KB)
+file2 (98KB)
+====================
+Please select from one of the three options below
+ - save (s)
+ - read (r)
+ - delete (d)
+ - room (x)
+ - list (l)
+ - quit (q)

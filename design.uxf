@@ -1,0 +1,42 @@
+<diagram program="umletino" version="14.4.0-SNAPSHOT"><zoom_level>10</zoom_level><help_text>Space for diagram notes</help_text><element><id>UMLClass</id><coordinates><x>414</x><y>170</y><w>180</w><h>80</h></coordinates><panel_attributes>FileSystem
+--
+- disk : Object
+--
++ open()</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>404</x><y>290</y><w>200</w><h>170</h></coordinates><panel_attributes>Disk
+--
+- blocks : Object
+- totalSize : int
+- blockSize: int
+--
++ save() : vec
++ read() : vec
++ del ()
++ availableSpace() : int
++ getTotalSize() : int
++ listFiles() </panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>277</x><y>500</y><w>190</w><h>170</h></coordinates><panel_attributes>iNode
+--
+- fileID : string
+- size : int
+- locations : vec 
+- next : ptr
+--
++ getLocations() : Vec 
++ getNext() : ptr
++ setNext(next : ptr) : ptr
++ getFileID() : string 
++ getSize() : int</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>547</x><y>500</y><w>190</w><h>170</h></coordinates><panel_attributes>BitMap 
+--
+- bitmap : vec 
+- size : int 
+- free : int 
+--
++ getBlock( blocks : int ) : vec 
++ freeBlock(blocks : vec)
++ availableSpace() : int</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>407</x><y>450</y><w>30</w><h>70</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;&lt;-
+</panel_attributes><additional_attributes>10;50;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>577</x><y>450</y><w>30</w><h>70</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;&lt;-
+</panel_attributes><additional_attributes>10;50;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>487</x><y>240</y><w>30</w><h>70</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;&lt;-
+</panel_attributes><additional_attributes>10;50;10;10</additional_attributes></element><element><id>Text</id><coordinates><x>427</x><y>480</y><w>40</w><h>30</h></coordinates><panel_attributes>0..
+style=wordwrap</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>7</x><y>0</y><w>40</w><h>30</h></coordinates><panel_attributes>0..
+style=wordwrap</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>597</x><y>480</y><w>30</w><h>30</h></coordinates><panel_attributes>1
+style=wordwrap</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>508</x><y>264</y><w>40</w><h>30</h></coordinates><panel_attributes>1..
+style=wordwrap</panel_attributes><additional_attributes></additional_attributes></element></diagram>

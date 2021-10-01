@@ -1,0 +1,103 @@
+Please specify the total size of the disk in MB: Please specify the size of each block in KB: Please select from one of the three options below
+ - save (s)
+ - read (r)
+ - delete (d)
+ - room (x)
+ - list (l)
+ - quit (q)
+Please enter a file id to be saved: Please enter the file size in KB: 
+[
+ 0, 1, 2, 3, 4, 5
+]
+Total Blocks: 6
+
+Please select from one of the three options below
+ - save (s)
+ - read (r)
+ - delete (d)
+ - room (x)
+ - list (l)
+ - quit (q)
+Please enter a file id to be saved: Please enter the file size in KB: 
+[
+ 6, 7, 8, 9, 10, 
+ 11, 12, 13, 14, 15, 
+ 16, 17
+]
+Total Blocks: 12
+
+Please select from one of the three options below
+ - save (s)
+ - read (r)
+ - delete (d)
+ - room (x)
+ - list (l)
+ - quit (q)
+Please enter a file id to be saved: Please enter the file size in KB: 
+[
+ 18, 19, 20, 21, 22, 
+ 23, 24, 25, 26, 27, 
+ 28, 29, 30, 31, 32, 
+ 33, 34, 35, 36, 37, 
+ 38, 39, 40, 41
+]
+Total Blocks: 24
+
+Please select from one of the three options below
+ - save (s)
+ - read (r)
+ - delete (d)
+ - room (x)
+ - list (l)
+ - quit (q)
+Please enter a file id to be read: [
+ 6, 7, 8, 9, 10, 
+ 11, 12, 13, 14, 15, 
+ 16, 17
+]
+Total Blocks: 12
+
+Please select from one of the three options below
+ - save (s)
+ - read (r)
+ - delete (d)
+ - room (x)
+ - list (l)
+ - quit (q)
+Please enter a file id to be deleted: File 'file2' has been deleted
+Please select from one of the three options below
+ - save (s)
+ - read (r)
+ - delete (d)
+ - room (x)
+ - list (l)
+ - quit (q)
+Please enter a file id to be read: This file id does not exist in the file system
+To see the file ids, use the list command 'l'.
+Please select from one of the three options below
+ - save (s)
+ - read (r)
+ - delete (d)
+ - room (x)
+ - list (l)
+ - quit (q)
+The available memory is 0.88MB.
+The total memory is 1MB.
+Please select from one of the three options below
+ - save (s)
+ - read (r)
+ - delete (d)
+ - room (x)
+ - list (l)
+ - quit (q)
+====================
+file3 (93KB)
+file1 (23KB)
+====================
+Please select from one of the three options below
+ - save (s)
+ - read (r)
+ - delete (d)
+ - room (x)
+ - list (l)
+ - quit (q)

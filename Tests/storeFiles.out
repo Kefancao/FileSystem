@@ -1,0 +1,118 @@
+Please specify the total size of the disk in MB: Please specify the size of each block in KB: Please select from one of the three options below
+ - save (s)
+ - read (r)
+ - delete (d)
+ - room (x)
+ - list (l)
+ - quit (q)
+Please enter a file id to be saved: Please enter the file size in KB: 
+[0
+]
+Total Blocks: 1
+
+Please select from one of the three options below
+ - save (s)
+ - read (r)
+ - delete (d)
+ - room (x)
+ - list (l)
+ - quit (q)
+Please enter a file id to be saved: Please enter the file size in KB: 
+[
+ 1, 2
+]
+Total Blocks: 2
+
+Please select from one of the three options below
+ - save (s)
+ - read (r)
+ - delete (d)
+ - room (x)
+ - list (l)
+ - quit (q)
+Please enter a file id to be saved: Please enter the file size in KB: 
+[
+ 3, 4, 5
+]
+Total Blocks: 3
+
+Please select from one of the three options below
+ - save (s)
+ - read (r)
+ - delete (d)
+ - room (x)
+ - list (l)
+ - quit (q)
+Please enter a file id to be saved: Please enter the file size in KB: 
+Invalid Size, please try again!
+Please enter the file size in KB: 
+[
+ 6, 7, 8
+]
+Total Blocks: 3
+
+Please select from one of the three options below
+ - save (s)
+ - read (r)
+ - delete (d)
+ - room (x)
+ - list (l)
+ - quit (q)
+Please enter a file id to be read: [
+ 3, 4, 5
+]
+Total Blocks: 3
+
+Please select from one of the three options below
+ - save (s)
+ - read (r)
+ - delete (d)
+ - room (x)
+ - list (l)
+ - quit (q)
+Please enter a file id to be read: [
+ 6, 7, 8
+]
+Total Blocks: 3
+
+Please select from one of the three options below
+ - save (s)
+ - read (r)
+ - delete (d)
+ - room (x)
+ - list (l)
+ - quit (q)
+Please enter a file id to be read: [
+ 1, 2
+]
+Total Blocks: 2
+
+Please select from one of the three options below
+ - save (s)
+ - read (r)
+ - delete (d)
+ - room (x)
+ - list (l)
+ - quit (q)
+====================
+file4 (10KB)
+file3 (9KB)
+file2 (5KB)
+file1 (1KB)
+====================
+Please select from one of the three options below
+ - save (s)
+ - read (r)
+ - delete (d)
+ - room (x)
+ - list (l)
+ - quit (q)
+The available memory is 0.96MB.
+The total memory is 1MB.
+Please select from one of the three options below
+ - save (s)
+ - read (r)
+ - delete (d)
+ - room (x)
+ - list (l)
+ - quit (q)
